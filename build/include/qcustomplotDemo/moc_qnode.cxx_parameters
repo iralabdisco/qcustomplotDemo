@@ -1,0 +1,15 @@
+-I/opt/ros/indigo/include
+-I/usr/include
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/home/matteo/catkin_ws/src/qcustomplotDemo/build
+-DROS_PACKAGE_NAME="qcustomplotDemo"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-DQT_NO_DEBUG
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-DQT_NO_KEYWORDS
+-o
+/home/matteo/catkin_ws/src/qcustomplotDemo/build/include/qcustomplotDemo/moc_qnode.cxx
+/home/matteo/catkin_ws/src/qcustomplotDemo/include/qcustomplotDemo/qnode.hpp

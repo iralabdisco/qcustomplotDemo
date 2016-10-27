@@ -1,0 +1,8 @@
+prefix=/home/matteo/catkin_ws/src/qcustomplotDemo/build/devel
+
+Name: qcustomplotDemo
+Description: Description of qcustomplotDemo
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/matteo/catkin_ws/src/qcustomplotDemo/build/devel/lib 
+Requires: 
